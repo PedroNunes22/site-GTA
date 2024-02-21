@@ -1,5 +1,5 @@
 # Landing Page GTA-5
-Este é um projeto de uma Landing Page para promover o jogo Grand Theft Auto V (GTA V). A página foi desenvolvida como parte de um estudo sobre desenvolvimento web utilizando HTML, CSS e JavaScript.
+Este é um projeto de uma Landing Page com o tema do jogo Grand Theft Auto V (GTA V). A página foi desenvolvida como parte de um estudo sobre desenvolvimento web utilizando HTML, CSS e JavaScript.
 
 ## Sobre o Projeto
 A Landing Page GTA-5 foi criada como um exercício para praticar conceitos de design responsivo, manipulação do DOM com JavaScript e organização de código CSS. O projeto inclui uma página inicial com informações sobre o jogo e a opção de compra para diferentes plataformas.
